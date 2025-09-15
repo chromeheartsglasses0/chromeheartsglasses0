@@ -3,7 +3,7 @@
 
 ![Image](https://github.com/user-attachments/assets/9285774e-e19b-4e0b-8011-39588e4933c9)
 
-Welcome to the **official :contentReference[oaicite:1]{index=1} Glasses GitHub repository** — the digital home for authentic **Chrome Hearts Glasses, Sunglasses, and Accessories**.  
+Welcome to the Chrome Hearts Glasses Official — the digital home for authentic **Chrome Hearts Glasses, Sunglasses, and Accessories**.  
 
 We bring **luxury eyewear with attitude**, blending cutting-edge style and timeless craftsmanship.  
 
