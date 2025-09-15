@@ -36,7 +36,7 @@ Visit our official online store to browse the full collection:
 
 | Glasses | Sunglasses | Accessories |
 |---------|------------|-------------|
-| ![Image](https://github.com/user-attachments/assets/556e1a1b-87cc-47df-b213-fe29cb1afb49) | ![Image](https://github.com/user-attachments/assets/55fa154f-e079-489d-b287-fe1e5e23464e)| ![Image](https://github.com/user-attachments/assets/ceed6516-ef14-41b1-a758-6dc825b46236)|
+| ![Image](https://github.com/user-attachments/assets/091cd198-c0bb-4eb5-a3f2-d4b2061d11b1) | ![Image](https://github.com/user-attachments/assets/938fbbef-2cfb-49eb-86b9-05d8300ed90f)| ![Image](https://github.com/user-attachments/assets/ceed6516-ef14-41b1-a758-6dc825b46236)|
 
 ---
 
